@@ -1,0 +1,29 @@
+body{
+    background-color: #000000
+    ;
+text: rgb(205, 241, 237)
+}
+
+button{
+    background-color: #d4ffff;
+}
+
+.copy_right_footer{
+    background-color: #b2cfcf;
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px , 5px , 5px;
+    margin-top: 105px;
+}
+
+.color {
+    color: #d4ffff;
+}
+
+.hear_lable {
+    color: #d4ffff;
+}
